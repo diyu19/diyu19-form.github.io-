@@ -1,0 +1,44 @@
+*{
+    
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+   
+}
+.container{
+max-width: 80%;
+    background-color:rgba(255, 255, 255, 0.774);
+    padding: 34px;
+    margin:auto;
+    text-align: center;
+     font-family: 'Otomanopee One', sans-serif;
+      margin-top: 200px;
+      border-radius:30px;
+}
+.btn{
+    
+        border-radius: 3px;
+    padding: 7px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 20PX;
+    border-radius: 8px ;
+    cursor: pointer;
+
+}
+input,textarea{
+    width:70%;
+    
+    margin: 2px 10px;
+    padding: 5px;
+    box-sizing: content-box;
+    border-color: blueviolet;
+    border-width: 3 px;
+        padding: auto;
+    font-size: larger;
+        padding-top: 8px;
+
+    outline: none;
+    border-radius: 7px;
+    flex-direction: column;
+
+}
